@@ -10,7 +10,7 @@ I optimize workflows, manage high-level executive logistics, and keep projects o
 
 ## 📂 Portfolio Directories
 * [Project Management Hub](https://github.com) - Live workflows, Trello/Asana templates, and project roadmaps.
-* [executive-logistics-sops](LINK_TO_REPO_2) - Calendar, inbox, and travel management frameworks.
+* [Executive Logistics & SOPs](https://github.com) - Calendar, inbox, and travel management frameworks.
 
 
 <!--
