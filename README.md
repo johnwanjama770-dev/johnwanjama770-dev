@@ -9,8 +9,9 @@ I optimize workflows, manage high-level executive logistics, and keep projects o
 * **Time Tracking & Productivity:** Hubstaff
 
 ## 📂 Portfolio Directories
-* [Project Management Hub](https://github.com) - Live workflows, Trello/Asana templates, and project roadmaps.
-* [Executive Logistics & SOPs](https://github.com) - Calendar, inbox, and travel management frameworks.
+* [Project Management Hub](https://github.com/johnwanjama770-dev/project-management-hub) - Live workflows, Trello/Asana templates, and project roadmaps.
+* [Executive Logistics & SOPs](https://github.com/johnwanjama770-dev/executive-logistics-sops
+) - Calendar, inbox, and travel management frameworks.
 
 
 <!--
